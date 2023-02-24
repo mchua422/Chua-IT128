@@ -1,3 +1,3 @@
 Maxine Chua
-IT128 - FOPI01
+IT128L - FOPI01
 BSIT
