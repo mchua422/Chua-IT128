@@ -1,1 +1,3 @@
-# Chua-IT128
+Maxine Chua
+IT128 - FOPI01
+BSIT
